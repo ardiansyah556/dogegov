@@ -450,7 +450,7 @@ export default function Home() {
         <div className="container mx-auto max-w-2xl">
           <div className="border-4 border-red-600 p-8 bg-white">
             <h2 className="text-3xl font-bold text-red-600 mb-6 text-center">
-              OFFICIAL NOTICE
+              ⚠️ OFFICIAL NOTICE ⚠️
             </h2>
 
             <div className="space-y-4 text-center">
